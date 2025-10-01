@@ -1,3 +1,3 @@
-module github.com/yourname/myapp
+module github.com/vietcf/test-modules
 
 go 1.25.1
